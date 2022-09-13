@@ -1,0 +1,3 @@
+[submodule "1_Libft"]
+	path = 1_Libft
+	url = git@github.com:Tscandol/1_Libft.git
