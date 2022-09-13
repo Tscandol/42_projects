@@ -1,3 +1,42 @@
 [submodule "1_Libft"]
 	path = 1_Libft
 	url = git@github.com:Tscandol/1_Libft.git
+[submodule "2_Get_Next_Line"]
+	path = 2_Get_Next_Line
+	url = git@github.com:Tscandol/2_Get_Next_Line.git
+[submodule "3_Ft_Printf"]
+	path = 3_Ft_Printf
+	url = git@github.com:Tscandol/3_Ft_Printf.git
+[submodule "4_Born2beroot"]
+	path = 4_Born2beroot
+	url = git@github.com:Tscandol/4_Born2beroot.git
+[submodule "5_Push_Swap"]
+	path = 5_Push_Swap
+	url = git@github.com:Tscandol/5_Push_Swap.git
+[submodule "6_Minitalk"]
+	path = 6_Minitalk
+	url = git@github.com:Tscandol/6_Minitalk.git
+[submodule "7_So_Long"]
+	path = 7_So_Long
+	url = git@github.com:Tscandol/7_So_Long.git
+[submodule "8_Philosophers"]
+	path = 8_Philosophers
+	url = git@github.com:Tscandol/8_Philosophers.git
+[submodule "9_Minishell"]
+	path = 9_Minishell
+	url = git@github.com:Tscandol/9_Minishell.git
+[submodule "10_Ft_Server"]
+	path = 10_Ft_Server
+	url = git@github.com:Tscandol/10_Ft_Server.git
+[submodule "11_Cube3D"]
+	path = 11_Cube3D
+	url = git@github.com:Tscandol/11_Cube3D.git
+[submodule "12_CPP"]
+	path = 12_CPP
+	url = git@github.com:Tscandol/12_CPP.git
+[submodule "13_Webserv"]
+	path = 13_Webserv
+	url = git@github.com:Tscandol/13_Webserv.git
+[submodule "14_Inception"]
+	path = 14_Inception
+	url = git@github.com:Tscandol/14_Inception.git
